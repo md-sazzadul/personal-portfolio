@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.5f5d9197.css",
-    "main.js": "/personal-portfolio/static/js/main.77eda70c.js",
+    "main.js": "/personal-portfolio/static/js/main.fb0bd3fc.js",
     "static/js/787.fb771931.chunk.js": "/personal-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/cash-book.PNG": "/personal-portfolio/static/media/cash-book.660bb2f3741c064a145b.PNG",
     "static/media/influencer-gear.PNG": "/personal-portfolio/static/media/influencer-gear.16880a100556a9637a59.PNG",
-    "static/media/CV_Islam.pdf": "/personal-portfolio/static/media/CV_Islam.0e83162a8ebef6949a7c.pdf",
+    "static/media/CV_Islam.pdf": "/personal-portfolio/static/media/CV_Islam.5e461bfc015351374cbb.pdf",
     "static/media/sunglass.jpg": "/personal-portfolio/static/media/sunglass.c2bb14b72f8813639ae0.jpg",
     "static/media/ema-john.PNG": "/personal-portfolio/static/media/ema-john.4e9368770d835b7dee00.PNG",
     "static/media/panda-commerce.PNG": "/personal-portfolio/static/media/panda-commerce.1cbcddc0b56a88e07f69.PNG",
@@ -15,11 +15,11 @@
     "static/media/logo.svg": "/personal-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/personal-portfolio/index.html",
     "main.5f5d9197.css.map": "/personal-portfolio/static/css/main.5f5d9197.css.map",
-    "main.77eda70c.js.map": "/personal-portfolio/static/js/main.77eda70c.js.map",
+    "main.fb0bd3fc.js.map": "/personal-portfolio/static/js/main.fb0bd3fc.js.map",
     "787.fb771931.chunk.js.map": "/personal-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f5d9197.css",
-    "static/js/main.77eda70c.js"
+    "static/js/main.fb0bd3fc.js"
   ]
 }
